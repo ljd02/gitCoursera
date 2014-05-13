@@ -1,4 +1,4 @@
-gitCoursera
+gitCourseraToolbox
 ===========
 
-Repo for Coursera Course 'The Data Scientist's ToolBox
+Repo for Coursera Course 'The Data Scientist's ToolBox'
